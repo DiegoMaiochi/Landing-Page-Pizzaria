@@ -1,4 +1,4 @@
-🍕 Pizza na Pedra - Landing Page
+🍕 Pizza na Pedra
 Landing page desenvolvida em HTML e CSS, com foco em apresentar os serviços, diferenciais e o cardápio da pizzaria Pizza na Pedra. A aplicação é servida localmente através de um container Docker com Live Server.
 
 -----------------------------------------------------------------------------------------------------------
@@ -6,7 +6,9 @@ Landing page desenvolvida em HTML e CSS, com foco em apresentar os serviços, di
 📁 Estrutura do Projeto
 
 index.html: Página principal com o conteúdo da landing page.
+
 style.css: Arquivo responsável pela estilização da página.
+
 img/: Diretório contendo as imagens utilizadas (logotipo, pratos, ambientação, etc).
 
 -----------------------------------------------------------------------------------------------------------
@@ -34,7 +36,11 @@ docker run -p 8080:8080 landing-page-pizzaria
 🛠️ Tecnologias Utilizadas:
 
 HTML5
+
 CSS3
+
 Docker
+
 Live Server
+
 Git + GitHub
