@@ -18,11 +18,16 @@ git clone https://github.com/DiegoMaiochi/Landing-Page-Pizzaria
 cd Landing-Page-Pizzaria
 
 2. Execute o container Docker
-docker build -t landing-page-pizzaria .
+
 🔧 Cria uma imagem Docker com base no seu projeto.
 
-docker run -p 8080:8080 landing-page-pizzaria
+docker build -t landing-page-pizzaria .
+
+
 💡 Roda a imagem e torna acessível na porta desejada.
+
+docker run -p 8080:8080 landing-page-pizzaria
+
 
 -----------------------------------------------------------------------------------------------------------
 
